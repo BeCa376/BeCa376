@@ -108,14 +108,14 @@ Technologies and tools I've worked with throughout my development journey.
   <tr>
     <td width="50%" valign="top">
       <img src="https://raw.githubusercontent.com/BeCa376/BoomCalc/master/config/boomcalc-icon.png" width="40" align="left" />
-      &nbsp;&nbsp;&nbsp;<a href="https://github.com/BeCa376/BoomCalc"><b>BoomCalc</b></a><br />
-      &nbsp;&nbsp;&nbsp;<sub>Python · JavaScript · Windows</sub><br />
+      &nbsp;&nbsp;<a href="https://github.com/BeCa376/BoomCalc"><b>BoomCalc</b></a><br />
+      &nbsp;&nbsp;<sub>Python · JavaScript · Windows</sub><br />
       Engineering calculator for cranes: checks lifting loads and crane utilization for two crane models, with a visual boom and load view instead of just typing in numbers.
     </td>
     <td width="50%" valign="top">
       <img src="https://raw.githubusercontent.com/BeCa376/Vehic/main/assets/vehic-icon.png" width="40" align="left" />
-      &nbsp;&nbsp;&nbsp;<a href="https://github.com/BeCa376/Vehic"><b>Vehic</b></a><br />
-      &nbsp;&nbsp;&nbsp;<sub>Flutter · Dart · Android</sub><br />
+      &nbsp;&nbsp;<a href="https://github.com/BeCa376/Vehic"><b>Vehic</b></a><br />
+      &nbsp;&nbsp;<sub>Flutter · Dart · Android</sub><br />
       A personal Android app to manage your motorcycle: fuel consumption, maintenance schedule, tire pressure, insurance and documents, with calendar reminders.
     </td>
   </tr>
