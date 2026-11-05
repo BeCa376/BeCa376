@@ -7,26 +7,15 @@
 <!-- HEADER -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,50:172554,100:1e293b&height=180&section=header&text=CAMILA%20FIDELI&fontSize=48&fontColor=E2E8F0&fontAlignY=43&desc=SOFTWARE%20ENGINEERING%20%7C%20FULL%20STACK%20DEVELOPMENT&descSize=13&descAlignY=67&descColor=93C5FD" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,50:172554,100:1e293b&height=180&section=header&text=CAMILA%20FIDELI&fontSize=48&fontColor=E2E8F0&fontAlignY=43&desc=SOFTWARE%20ENGINEERING%20%7C%20FULL%20STACK%20DEVELOPMENT&descSize=13&descAlignY=67&descColor=93C5FD" alt="Camila Fideli - Software Engineering | Full Stack Development"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=3000&pause=1000&color=94A3B8&center=true&vCenter=true&width=600&lines=Code, music, coffee and a thousand ideas.;Too curious to stick to one thing.;A little chaos, a lot of curiosity." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=3000&pause=1000&color=94A3B8&center=true&vCenter=true&width=600&lines=Code%2C+music%2C+coffee+and+a+thousand+ideas.;Too+curious+to+stick+to+one+thing.;A+little+chaos%2C+a+lot+of+curiosity." alt="Typing SVG"/>
 
 <br/>
 
-<a href="https://www.instagram.com/beca376/">
-  <img src="https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-<a href="https://www.linkedin.com/in/camila-fideli">
-  <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=data:image/svg%2bxml;base64,..." alt="LinkedIn"/>
-</a>
-<a href="mailto:camilacfideli@gmail.com">
-  <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://camilafideli.com.br/" target="_blank">
-  <img src="https://img.shields.io/badge/Website-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
-</a>
+<a href="https://www.instagram.com/beca376/"><img src="https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>&nbsp;<a href="https://www.linkedin.com/in/camila-fideli"><img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI0ZGRkZGRiI+PHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMDEtMi4wNjMtMi4wNjUgMi4wNjQgMi4wNjQgMCAxMTIuMDYzIDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4K" alt="LinkedIn"/></a>&nbsp;<a href="mailto:camilacfideli@gmail.com"><img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;<a href="https://camilafideli.com.br/"><img src="https://img.shields.io/badge/Website-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
 
 </div>
 
